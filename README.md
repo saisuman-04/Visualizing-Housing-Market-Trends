@@ -58,5 +58,5 @@ This project provides an interactive visualization of housing market trends usin
 
 - **Project Title:** Visualizing Housing Market Trends  
 - **Team ID:** [LTVIP2025TMID47436]
-- **Created by:** Chakka. sri uman sai sumanChakka Sri Uma Sai Suman
-  Narukula Naga Sai Brahmaji
+- **Created by:**Chakka Sri Uma Sai Suman,
+                  Narukula Naga Sai Brahmaji
